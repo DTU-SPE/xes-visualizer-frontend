@@ -1,0 +1,4 @@
+[
+    {"protocol": "https", "hostname": "xes-visualizer-backend-eu1.herokuapp.com"},
+    {"protocol": "https", "hostname": "xes-visualizer-backend-eu2.herokuapp.com"}
+]
