@@ -16,7 +16,7 @@
         developing a web-based tool that others alternative visualization options for event logs. The
         developed tool others two diagram types, the Sankey and the Chord diagram, and lays the
         groundwork for future work.</p>
-        <p>The complete report is availabe at: <a href="https://findit.dtu.dk/en/catalog/" target="_blank">https://findit.dtu.dk/en/catalog/</a>.</p>
+        <p>The complete report is availabe at: <a href="https://findit.dtu.dk/en/catalog/2612279097" target="_blank">https://findit.dtu.dk/en/catalog/2612279097</a>.</p>
 
         <p>The source code of this web-application is available at:</p>
         <ul>
